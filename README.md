@@ -1,1 +1,1 @@
-# AuthenticationManager
+﻿# Authentication manager
