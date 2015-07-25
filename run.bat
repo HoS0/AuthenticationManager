@@ -1,3 +1,3 @@
 @echo on
 
-forever -w .\lib\app.js
+forever --minUptime 1000 --spinSleepTime 1000 -w .\lib\app.js 
